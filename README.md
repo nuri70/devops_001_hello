@@ -12,11 +12,11 @@ docker login  -u KULLANICIADI    -p  PAROLA
 
 ***
 
-docker pull nuri01/devops_001_hello:latest
-
-## Merhaba 
 
 
-# dsaassdsadsadsadsa
+### Docker Image
+
+
+# 
 
 
