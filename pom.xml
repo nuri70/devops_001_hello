@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ernuri</groupId>
 	<artifactId>devops_001_hello</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>devops_001_hello</name>
 	<description>devops_001_hello</description>
 	<url/>

@@ -2,19 +2,21 @@
 
 ### Hello 001
 
-Bu benim ilk devops projem.
+Bu benim ilk devops projemdir.
 
 <hr>
 
-### Docker'a Terminalden login almak için 
+## Docker'a Terminalden login almak için 
 
-
-docker login  -u KULLANICI_ADI    -p  PAROLA
+docker login  -u KULLANICIADI    -p  PAROLA
 
 ***
 
+docker pull nuri01/devops_001_hello:latest
 
-bu benim github öğrenme serüvenim
+## Merhaba 
 
+
+# dsaassdsadsadsadsa
 
 
