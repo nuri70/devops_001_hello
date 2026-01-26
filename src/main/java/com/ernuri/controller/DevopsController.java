@@ -13,7 +13,7 @@ public class DevopsController {
 
     @GetMapping
     public String devopsHello(){
-        return " Hello Devops";
+        return " Hello Devops Version3 " + LocalDateTime.now();
     }
 
 
