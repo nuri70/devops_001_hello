@@ -1,9 +1,13 @@
 package com.ernuri.controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.time.LocalDateTime;
 
 
 @RestController
+@RequestMapping
 public class DevopsController {
 
 
@@ -13,9 +17,9 @@ public class DevopsController {
     }
 
 
-    @GetMapping
+    @GetMapping("info")
     public String info() {
-        return "Hello Devops!";
+        return "İnfo : " + LocalDateTime.now();
     }
 
 }

@@ -32,4 +32,15 @@ build/
 ### VS Code ###
 .vscode/
 
-.mvn
+.mvn/
+
+.cursor/
+
+.agent/
+
+.docker/
+.docker/data/
+docker-compose.override.yml
+
+.DS.Store
+Thumbs.db
